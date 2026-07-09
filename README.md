@@ -1,16 +1,14 @@
-## Hi there 👋
+# Fullstack Developer
+Building complete software platforms with clean architecture, automation, and observability
 
-<!--
-**Overwhelmed44/Overwhelmed44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My tech stack
+![Backend](https://skillicons.dev/icons?i=py,go)\
+![Storage](https://skillicons.dev/icons?i=postgresql,mongodb,redis)\
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vite)\
+![DevOps](https://skillicons.dev/icons?i=git,docker,github,gitlab)\
+![Infra](https://skillicons.dev/icons?i=nginx,prometheus,grafana)\
+![ML](https://skillicons.dev/icons?i=tensorflow)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Production-grade Go
+- TensorFlow and deep learning
