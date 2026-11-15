@@ -1,14 +1,13 @@
-# Fullstack Developer
-Building complete software platforms with clean architecture, automation, and observability
+# Full-stack Developer
 
-## 🛠️ My tech stack
-![Backend](https://skillicons.dev/icons?i=py,go)\
-![Storage](https://skillicons.dev/icons?i=postgresql,mongodb,redis)\
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vite)\
-![DevOps](https://skillicons.dev/icons?i=git,docker,github,gitlab)\
-![Infra](https://skillicons.dev/icons?i=nginx,prometheus,grafana)\
-![ML](https://skillicons.dev/icons?i=tensorflow)
+I build and maintain complete software products — backend services, bots, monitoring and notification systems, web and desktop apps, and the infrastructure that runs the\
+**Creator and sole maintainer** of [Oxee](https://oxee.net), a platform for internet services and developer tools
 
-## 🌱 Currently learning
-- Production-grade Go
-- TensorFlow and deep learning
+| Area | Technologies |
+| --- | --- |
+| Backend | Python FastAPI, Go net/http |
+| Web & Desktop | JavaScript, TypeScript, React, Wails, HTML, CSS, Vite, Webpack |
+| Data & Messaging | PostgreSQL, MongoDB, Redis, RabbitMQ, S3 |
+| Infrastructure | Linux, Docker, Docker Compose, Nginx |
+| Monitoring | Grafana, Prometheus |
+| Versioning & CI/CD | Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD |
